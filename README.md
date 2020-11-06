@@ -5,6 +5,7 @@
 # How to Download
 1. First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
 2. Downlaod the JSON file 
+
 [Stable](https://github.com/GamerBoi153/AntiRickRoll/releases/latest) 
 
 [Nightly](https://raw.githubusercontent.com/GamerBoi153/AntiRickRoll/main/AntiRickRoll.json)
