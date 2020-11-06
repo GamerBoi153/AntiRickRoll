@@ -20,7 +20,7 @@ Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/
 
 Choose the JSON file and your done
 
-(Get Notified of updates at https://discord.gg/GJepCh7uSd)
+(Get Notified of updates at our [Discord server](https://discord.gg/GJepCh7uSd))
            
 
 ## What it Blocks
