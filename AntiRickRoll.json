@@ -867,6 +867,24 @@
             "grouped": false,
             "appliesTo": [
                 "main_frame"
+                ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://rr.noordstar.me",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://rr.noordstar.me",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
             ]
         }
     ]
