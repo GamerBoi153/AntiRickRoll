@@ -876,7 +876,7 @@
             "error": null,
             "includePattern": "https://rr.noordstar.me",
             "excludePattern": "",
-            "patternDesc": "Even website generators arent safe",
+            "patternDesc": "Even website generators aren't safe",
             "redirectUrl": "https://pastebin.com/raw/s00hRQya",
             "patternType": "W",
             "processMatches": "noProcessing",
@@ -1020,7 +1020,7 @@
             "grouped": false,
             "appliesTo": [
                 "main_frame"
-                
+            ]
         },
         {
             "description": "",
