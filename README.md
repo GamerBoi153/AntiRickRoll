@@ -8,6 +8,11 @@
 4. Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/76219b24a59111e833fbce3b55026f6a.png?raw=true)
 5. Choose the JSON file and your done
 
+           
+
+
+
+
 
 # How Help Us
 Find any link (video, website) that purposely rick rolls thats not detected in the JSON and make a issue with the "Rick Roll Found" tag and paste the url!
