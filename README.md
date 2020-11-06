@@ -1,6 +1,7 @@
 # AntiRickRoll
 *Never get RickRolled Again* (if you help and find more urls to add to this anyway)
-![alt text](https://images.discordapp.net/avatars/751595470714830988/bb75cd5c89682ad1eb1cdea455b702f9.png?size=512) (This was by HK for his bot discord bot, I had no idea it existed but the logo is better than mine so hippity hoppity, your logo is know my property)
+![alt text](https://images.discordapp.net/avatars/751595470714830988/bb75cd5c89682ad1eb1cdea455b702f9.png?size=512)
+(This was by HK for his bot discord bot, I had no idea it existed but the logo is better than mine so hippity hoppity, your logo is know my property)
 
 # How to Download
 First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
