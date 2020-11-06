@@ -3,17 +3,17 @@
 ![alt text](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/Screenshot_2014-07-19_15.24.57.0%20(1).jpg?raw=true)
 
 # How to Download
-1. First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
-2. Downlaod the JSON file 
+First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
+Downlaod the JSON file 
 
 [Stable](https://github.com/GamerBoi153/AntiRickRoll/releases/latest) 
 ## Or
 [Nightly](https://raw.githubusercontent.com/GamerBoi153/AntiRickRoll/main/AntiRickRoll.json)
 #
 
-3. Click on the Redirector extension and then click "Edit Redirects"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/7ea8df89683e16eff55486fa1fe37cec.png?raw=true)
-4. Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/76219b24a59111e833fbce3b55026f6a.png?raw=true)
-5. Choose the JSON file and your done
+Click on the Redirector extension and then click "Edit Redirects"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/7ea8df89683e16eff55486fa1fe37cec.png?raw=true)
+Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/76219b24a59111e833fbce3b55026f6a.png?raw=true)
+Choose the JSON file and your done
 
 (Get Notified of updates at https://discord.gg/GJepCh7uSd)
            
