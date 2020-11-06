@@ -1,5 +1,6 @@
 # AntiRickRoll
 *Never get RickRolled Again* (if you help and find more urls to add to this anyway)
+![alt text](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/Screenshot_2014-07-19_15.24.57.0%20(1).jpg?raw=true)
 
 # How to Download
 1. First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
