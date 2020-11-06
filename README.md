@@ -2,8 +2,6 @@
 *Never get RickRolled Again* (if you help and find more urls to add to this anyway)
 ![alt text](https://images.discordapp.net/avatars/751595470714830988/bb75cd5c89682ad1eb1cdea455b702f9.png?size=512)
 
-(Logo made by [HK#4784](https://top.gg/user/404809534079762442) for his [discord bot](https://top.gg/bot/751595470714830988), I had no idea it existed when I made this but the logo is better than mine so hippity hoppity, your logo is know my property)
-
 # How to Download
 First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
 
