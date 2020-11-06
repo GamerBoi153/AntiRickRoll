@@ -1114,7 +1114,7 @@
             "error": null,
             "includePattern": "https://www.youtube.com/watch?v=dRV6NaciZVk",
             "excludePattern": "",
-            "patternDesc": "",
+            "patternDesc": "nope",
             "redirectUrl": "https://pastebin.com/raw/s00hRQya",
             "patternType": "W",
             "processMatches": "noProcessing",
