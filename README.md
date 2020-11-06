@@ -1,5 +1,5 @@
 # AntiRickRoll
-*Never get RickRolled Again*
+*Never get RickRolled Again* (if you help and find more urls to add to this anyway)
 
 ## How to Download
 1. First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
