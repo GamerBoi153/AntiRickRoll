@@ -17,6 +17,6 @@ Discord Link Hiders that can/or could hide Rick Roll links as something else abu
 
 
 
-# How To Help Us
+## How To Help Us
 Find any link (video, website) that purposely rick rolls thats not detected in the JSON and make a issue with the "Rick Roll Found" tag and paste the url!
 
