@@ -1,7 +1,7 @@
 # AntiRickRoll
 *Never get RickRolled Again* (if you help and find more urls to add to this anyway)
 
-## How to Download
+# How to Download
 1. First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
 2. [Downlaod the JSON file](https://github.com/GamerBoi153/AntiRickRoll/raw/main/AntiRickRoll.json)
 3. Click on the Redirector extension and then click "Edit Redirects"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/7ea8df89683e16eff55486fa1fe37cec.png?raw=true)
