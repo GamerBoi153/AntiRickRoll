@@ -866,8 +866,8 @@
             "disabled": false,
             "grouped": false,
             "appliesTo": [
-                "main_frame"
-                ]
+                "main_frame"    
+            ]  
         },
         {
             "description": "",
@@ -877,6 +877,40 @@
             "includePattern": "https://rr.noordstar.me",
             "excludePattern": "",
             "patternDesc": "Even website generators arent safe",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+             ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.latlmes.com/",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.latlmes.com/",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://rickrolled.com/",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://rickrolled.com/",
+            "excludePattern": "",
+            "patternDesc": "",
             "redirectUrl": "https://pastebin.com/raw/s00hRQya",
             "patternType": "W",
             "processMatches": "noProcessing",
