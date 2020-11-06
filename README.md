@@ -7,7 +7,7 @@
 2. Downlaod the JSON file 
 
 [Stable](https://github.com/GamerBoi153/AntiRickRoll/releases/latest) 
-
+# Or
 [Nightly](https://raw.githubusercontent.com/GamerBoi153/AntiRickRoll/main/AntiRickRoll.json)
 
 3. Click on the Redirector extension and then click "Edit Redirects"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/7ea8df89683e16eff55486fa1fe37cec.png?raw=true)
