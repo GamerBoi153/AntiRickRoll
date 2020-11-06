@@ -9,7 +9,7 @@
 4. Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/76219b24a59111e833fbce3b55026f6a.png?raw=true)
 5. Choose the JSON file and your done
 
-(sadly theres no auto update so watch this repo)
+(Get Notified of updates at https://discord.gg/GJepCh7uSd)
            
 
 ## What it Blocks
