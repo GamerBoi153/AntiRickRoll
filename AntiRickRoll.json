@@ -1122,6 +1122,414 @@
             "grouped": false,
             "appliesTo": [
                 "main_frame"
+                
+                 },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=YddwkMJG1Jo",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=YddwkMJG1Jo",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=iik25wqIuFo",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=iik25wqIuFo",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=ub82Xb1C8os",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=ub82Xb1C8os",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=LWErcuHm_C4",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=LWErcuHm_C4",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=dRV6NaciZVk",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=dRV6NaciZVk",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=RvBwypGUkPo",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=RvBwypGUkPo",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=-pHhb4biR9k",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=-pHhb4biR9k",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=sSSOG8g7PFg",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=sSSOG8g7PFg",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=bCh5IlXTckA",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=bCh5IlXTckA",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=GjyUk_Ebb4o",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=GjyUk_Ebb4o",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=INbRpclIFsE",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=INbRpclIFsE",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=JkcHqN6YswU",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=JkcHqN6YswU",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=HUU3kOhjFfg",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=HUU3kOhjFfg",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=X7Y0F_OGFKw",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=X7Y0F_OGFKw",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=oJl25bABYac",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=oJl25bABYac",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=E458nb_pPmk",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=E458nb_pPmk",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=LjQZaD9EEJ0",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=LjQZaD9EEJ0",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=9oxRDJjAQKI",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=9oxRDJjAQKI",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=iiUIi5b9RlE",
+            "exampleResult": "https://www.youtube.com/watch?v=iiUIi5b9RlE",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=iiUIi5b9RlE",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://www.youtube.com/watch?v=iiUIi5b9RlE",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=SsiHLiXBlcM",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=SsiHLiXBlcM",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=s0akG-V_Y30",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=s0akG-V_Y30",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=ikFZLI4HLpQ",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=ikFZLI4HLpQ",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=Kiz3PM387FI",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=Kiz3PM387FI",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
             ]
         }
     ]
