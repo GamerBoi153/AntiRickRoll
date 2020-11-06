@@ -17,6 +17,9 @@ Rickroll websites that generates links to unrelated domains that end up playing 
 #
 Discord Link Hiders that can/or could hide Rick Roll links as something else abusing Discords embed feature
 
+## Why does this exist?
+To make sure the dead meme dies and also because I was bored.
+
 
 
 ## How To Help Us
