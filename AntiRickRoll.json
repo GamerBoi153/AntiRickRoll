@@ -918,6 +918,108 @@
             "grouped": false,
             "appliesTo": [
                 "main_frame"
+            ] 
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://dircordapp.com",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://dircordapp.com",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://dlcordapp.com",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://dlcordapp.com",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.dlcordapp.com",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.dlcordapp.com",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.dircordapp.com",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.dircordapp.com",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://cdn.dlcordapp.com",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://cdn.dlcordapp.com",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": " https://cdn.dircordapp.com",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": " https://cdn.dircordapp.com",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
             ]
         }
     ]
