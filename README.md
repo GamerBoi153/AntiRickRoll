@@ -10,9 +10,13 @@
 
            
 
-
+# What it Blocks
+Any YouTube video that purposely hides/puts the song for trolling
+Rick Roll Link Generator that makes links to unrelated domains that end up playing the video
+Discord Link Hiders that can/or could hide Rick Roll links as something else abusing Discords embed feature
 
 
 
 # How To Help Us
 Find any link (video, website) that purposely rick rolls thats not detected in the JSON and make a issue with the "Rick Roll Found" tag and paste the url!
+
