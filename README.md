@@ -10,7 +10,7 @@
 
            
 
-# What it Blocks
+## What it Blocks
 Any YouTube video that purposely hides/puts the song for trolling
 Rick Roll Link Generator that makes links to unrelated domains that end up playing the video
 Discord Link Hiders that can/or could hide Rick Roll links as something else abusing Discords embed feature
