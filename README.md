@@ -18,7 +18,7 @@ Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/
 
 Choose the JSON file and your done
 
-(Get Notified of updates at our [Discord server](https://discord.gg/GJepCh7uSd))
+(Join our [Discord server](https://discord.gg/GJepCh7uSd) to get our new antirickroll discord bot and see when updates on this repo get made)
            
 
 ## What it Blocks
