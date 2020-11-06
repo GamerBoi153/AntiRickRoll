@@ -5,13 +5,13 @@
 # How to Download
 First get [this](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd/related?hl=en) extension
 
-Downlaod the JSON file below
+Choose a version to download
 
 [Stable Version](https://github.com/GamerBoi153/AntiRickRoll/releases/latest) 
-## Or
+Or
 [Nightly Version](https://raw.githubusercontent.com/GamerBoi153/AntiRickRoll/main/AntiRickRoll.json)
-#
 
+Then
 Click on the Redirector extension and then click "Edit Redirects"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/7ea8df89683e16eff55486fa1fe37cec.png?raw=true)
 
 Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/76219b24a59111e833fbce3b55026f6a.png?raw=true)
