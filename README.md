@@ -13,7 +13,9 @@ Downlaod the JSON file below
 #
 
 Click on the Redirector extension and then click "Edit Redirects"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/7ea8df89683e16eff55486fa1fe37cec.png?raw=true)
+
 Click "Import"    [Image](https://github.com/GamerBoi153/AntiRickRoll/blob/main/Images/76219b24a59111e833fbce3b55026f6a.png?raw=true)
+
 Choose the JSON file and your done
 
 (Get Notified of updates at https://discord.gg/GJepCh7uSd)
