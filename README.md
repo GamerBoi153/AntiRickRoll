@@ -15,7 +15,7 @@ Any YouTube video that purposely hides/puts the song for trolling
 #
 Rickroll websites that generates links to unrelated domains that end up playing the video
 #
-Discord Link Hiders that could hide Rick Roll links as something else abusing Discords embed feature
+Discord Link Hiders that could hide Rick Roll links as something else abusing by Discords embed feature
 
 ## Why does this exist?
 To make sure the dead meme dies and also because I was bored.
