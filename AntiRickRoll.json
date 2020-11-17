@@ -1581,6 +1581,24 @@
             "grouped": false,
             "appliesTo": [
                 "main_frame"
+                ]
+                
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=3Y4syv7et5s",
+            "exampleResult": "https://pastebin.com/raw/s00hRQya",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=3Y4syv7et5s",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
             ]
         }
     ]
