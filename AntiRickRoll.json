@@ -1455,7 +1455,24 @@
             "includePattern": "https://www.youtube.com/watch?v=iiUIi5b9RlE",
             "excludePattern": "",
             "patternDesc": "",
-            "redirectUrl": "https://www.youtube.com/watch?v=iiUIi5b9RlE",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame"
+            ]
+        },
+        {
+            "description": "",
+            "exampleUrl": "https://www.youtube.com/watch?v=whE6Zi1Oelg",
+            "exampleResult": "https://www.youtube.com/watch?v=whE6Zi1Oelg",
+            "error": null,
+            "includePattern": "https://www.youtube.com/watch?v=whE6Zi1Oelg",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://pastebin.com/raw/s00hRQya",
             "patternType": "W",
             "processMatches": "noProcessing",
             "disabled": false,
